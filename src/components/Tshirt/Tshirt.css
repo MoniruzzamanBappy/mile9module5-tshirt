@@ -1,0 +1,7 @@
+.tshirt-item{
+    border: 1px solid rgb(145, 85, 85);
+}
+.tshirt-item img{
+    width: 200px;
+    height: 250px;
+}
